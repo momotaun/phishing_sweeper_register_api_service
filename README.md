@@ -1,7 +1,7 @@
 # Phishing Sweeper Register api [![tag](https://img.shields.io/github/tag/Mottie/GitHub-userscripts.svg)](https://github.com/momotaun/phishing_sweeper_register_api_service/tags)
 Register and login backend api for phishing sweeper
 
-This project was created using Django 4.0.4 and Django Restframework 3.13.1
+This project was created using `Django 4.0.4` and `Django Restframework 3.13.1`
 
 ## Requirements and prerequesites
   1. Python 3.x.x
