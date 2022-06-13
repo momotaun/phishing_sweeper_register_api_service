@@ -1,35 +1,62 @@
 # Phishing Sweeper Register api [![tag](https://img.shields.io/github/tag/Mottie/GitHub-userscripts.svg)](https://github.com/momotaun/phishing_sweeper_register_api_service/tags)
-## Requirements and prerequesites
+
+## Description
 Register and login backend api for phishing sweeper
 
-This project was created using `Django 4.0.4` and `Django Restframework 3.13.1`
+## Badges
 
 ## Requirements and prerequesites
+This project was created using `Django 4.0.4` and `Django Restframework 3.13.1`
+
   1. Python 3.x.x
   2. [Docker](https://www.docker.com/)
   3. [Kubernetes](https://www.kubernetes.com/)
 
-## Installation steps
+## Installation
   1. Clone the repository
+  
+```sh
+git clone https://github.com/momotaun/phishing_sweeper_register_api_service.git
+```
+
   2. Create your own working branch
+  
+```sh
+git branch [username]
+```
+
   3. Switch to your working branch
+  
+```sh
+git checkout [username]
+```
+
   4. Merge if necessary :shipit:
-  5. Run 
-    ```
-    docker-compose build
-    ```
-  7. Run "docker-compose up"
 
-## Development server
-Run "python manage.py runserver" for a dev server. Navigate to http://127.0.0.1:8000/. The app will automatically reload if you change any of the source files.
+```sh
+git merge main
+```
 
-## Code scaffolding
+  5. Build image
+  
+```sh
+docker-compose build
+```
 
+  6. Run 
+  
+```sh
+docker-compose up
+```
 
-## Build
+## Usage
 
+## Roadmap
 
-## Running unit tests
+## Authors and acknowledgment
 
+## License
+Copyright © 2022 [Phishing Sweeper](https://www.phishingsweeper.com/).
+This project is released under the [MIT License](LICENSE).
 
-## Running end-to-end tests
+## 
