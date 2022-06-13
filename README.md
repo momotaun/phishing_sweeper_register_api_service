@@ -27,6 +27,3 @@ Run "python manage.py runserver" for a dev server. Navigate to http://127.0.0.1:
 
 
 # Running end-to-end tests
-
-
-# 
