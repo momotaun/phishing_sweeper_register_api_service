@@ -14,7 +14,7 @@ This project was created using Django 4.0.4 and Django Restframework 3.13.1
   3. Switch to your working branch
   4. Merge if necessary
   5. Run 
-    '''docker-compose build'''
+    ```docker-compose build```
   7. Run "docker-compose up"
 
 # Development server
