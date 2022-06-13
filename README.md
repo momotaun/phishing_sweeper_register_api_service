@@ -12,7 +12,7 @@ This project was created using Django 4.0.4 and Django Restframework 3.13.1
   1. Clone the repository
   2. Create your own working branch
   3. Switch to your working branch
-  4. Merge if necessary
+  4. Merge if necessary :shipit:
   5. Run 
     ```
     docker-compose build
