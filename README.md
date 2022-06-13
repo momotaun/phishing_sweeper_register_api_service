@@ -13,6 +13,8 @@ This project was created using Django 4.0.4 and Django Restframework 3.13.1
   2. Create your own working branch
   3. Switch to your working branch
   4. Merge if necessary
+  5. Run "docker-compose build" to create the image in your local computer
+  6. Run "docker-compose up"
 
 # Development server
 Run "python manage.py runserver" for a dev server. Navigate to http://127.0.0.1:8000/. The app will automatically reload if you change any of the source files.
