@@ -5,7 +5,7 @@ This project was created using `Django 4.0.4` and `Django Restframework 3.13.1`
 
 ## Requirements and prerequesites
   1. Python 3.x.x
-  2. Docker
+  2. [Docker](https://www.docker.com/) (proprietary)
   3. Kubernetes
 
 ## Installation steps
